@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everybody welcome to my GitHub
-🌱 I’m currently learning Developement Mobile with: React Native
-🤔 I’m looking for help with Web and Mobile projects.
+[p] Hi everybody welcome to my GitHub [/p]
+[p] 🌱 I’m currently learning Developement Mobile with: React Native[/p]
+[p]🤔 I’m looking for help with Web and Mobile projects.[/p]
 
