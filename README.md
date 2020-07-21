@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **maydoug/maydoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi everybody welcome to my GitHub
+🌱 I’m currently learning Developement Mobile with: React Native
+🤔 I’m looking for help with Web and Mobile projects.
+
