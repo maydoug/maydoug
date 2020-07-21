@@ -1,5 +1,6 @@
 <!--
-**maydoug/maydoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+**Marcelo391/Marcelo391** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi everybody welcome to my GitHub
-🌱 I’m currently learning Developement Mobile with: React Native.
-🤔 I’m looking for help with Web and Mobile projects.
+# Maycon Douglas :man_technologist:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/jrmarcelo/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/marcelorde391/)](https://www.youtube.com/user/marcelorde391/)
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is Maycon and ...:
+
+ - 😄 I really like to learn
+ - 📊 I'm working with System Administration
+ - 📚 Currently studying JavaScript, NodeJS, React, ReactNative ; 
+ - 🌍 And I also like to travel
