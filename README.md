@@ -25,5 +25,5 @@ My name is Maycon and ...:
 
  - 😄 I really like to learn
  - 📊 I'm working with System Administration
- - 📚 Currently studying JavaScript, NodeJS, React, ReactNative ; 
+ - 📚 Currently studying JavaScript, NodeJS, React, VueJS, ReactNative ; 
  - 🌍 And I also like to travel
