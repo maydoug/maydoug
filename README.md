@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jrmarcelo/)](https://www.linkedin.com/in/maydoug)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/marcelorde391/)](https://www.youtube.com/channel/UCzhwEW_hAK_xRSk3Yo_3jBg)
 
-### Hellooo! 👋 Welcome to my profile
+### Hellooo! 👋 it's a pleasure to see you here '
 
-Hello dear, I'm Maycon Douglas
+ I'm Maycon Douglas
 
- - 📊 I'm working with Fullstack Development at WoodVerso a wonderfull place ✨
- - 💬 I really love work with NodeJS in Backend and React or React Native in front !
- - ⚡ let's code ! 
+ - 📊 I'm working as a fullstack developer at WoodVerso a wonderful place ✨
+ - 💬 I love working with NodeJS on the backend and React or Native React on the frontend!
+ - ⚡ let's code !
