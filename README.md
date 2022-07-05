@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Maycon and ...:
+Hello dear, I'm Maycon Douglas
 
- - 😄 I really like to learn
- - 📊 I'm working with System Administration
- - 📚 Currently studying JavaScript, NodeJS, React, VueJS, ReactNative ; 
- - 🌍 And I also like to travel
+ - 📊 I'm working with Fullstack Development at WoodVerso a wonderfull place ✨
+ - 💬 I really love work with NodeJS in Backend and React or React Native in front !
+ - ⚡ let's code ! 
