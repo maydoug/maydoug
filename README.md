@@ -24,8 +24,8 @@ Here are some ideas to get you started:
  I'm Maycon Douglas
 
  - 📊 I'm working as a fullstack developer at WoodVerso a wonderful place ✨
- - 💬 I love working with NodeJS on the backend and React or Native React on the frontend!
- - ⚡ let's code !
+ - 💬 I love working with NodeJS on the backend and React or React Native for mobile application on the frontend!
+ - ⚡ alright, let's code devs !
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
